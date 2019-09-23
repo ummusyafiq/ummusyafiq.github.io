@@ -1,0 +1,47 @@
+/* Start body */
+body {
+    color: #24292e;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0;
+}
+/* End body */
+
+/* Start Debug */
+.bg-palevioletred {
+    background-color: palevioletred
+}
+
+.bg-pink {
+    background-color: pink
+}
+/* End Debug */
+
+/* Start Container */
+.container {
+    margin: 10px auto;
+    overflow: auto;
+    width: 90%;
+}
+
+.container-full {
+    margin: 10px auto;
+    overflow: auto;
+    width: 100%;
+}
+/* End Container */
+
+/* Start Logo */
+.logo {
+    text-align: center
+}
+/* End Logo */
+
+/* Start Menu Primer */
+.menu-primer ul {
+    background-color: pink;
+    border-radius: 4px
+}
+/* End Menu Primer */
